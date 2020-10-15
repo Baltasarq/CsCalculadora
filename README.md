@@ -15,7 +15,13 @@ $ msbuild
 ```
 
 ## Ejecución
-Puede ejecutarse con:
+Puede ejecutarse desde *Linux* con:
+
+```
+$ mono bin/Debug/Calculadora.exe
+
+```
+Desde *Windows*:
 
 ```
 $ mono bin/Debug/Calculadora.exe
